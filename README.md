@@ -15,7 +15,7 @@
 <p align="left">Soy desarrolladora Full Stack y entusiasta de las aplicaciones moviles con un gran amor por la programación, el diseño y crear experiencias para el usuario. </p>
 
 - ✨ Busco empleo como desarrolladora móvil.
-- 🌱 Soy egresada del Centro Universitario de la costa :).
+- 🌱 Soy egresada del Centro Universitario de la Costa :).
 - 📱 Desarrollo en móvil con Java y Flutter.
 - 💻 Conocimientos en Firebase y MySQL.
 - 🌱 Trabajo en proyectos individuales para enriquecer mi conocimiento y experiencia.
