@@ -2,7 +2,7 @@
 ![Lyshuan Banner](https://github.com/Lyshuan20/Lyshuan20/blob/main/Banner_LyshuanNavarro.png)
 
 <!--Header Name-->
-# <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif" width="30"/> Soy Lyshuan! 
+# <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif" width="30"/> 👋 Hola, soy Lyshuan! 
 *Artista digital (Desarrollador / Programador)*
 <br />
 
