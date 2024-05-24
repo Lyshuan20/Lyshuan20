@@ -1,9 +1,9 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
 
-<!--Night Owl image-->
+<!--Imagen -->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">
 </div>
 
 <!--Header Name-->
@@ -26,7 +26,7 @@
 ---
 <br />
 
-<!--Languages and Tools Section-->       
+<!--Sección de lenguajes y herramientas-->       
 <h2 align="center">LENGUAJES Y HERRAMIENTAS</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,git,vscode,androidstudio,firebase,mysql,flutter&perline=10"  />
@@ -36,7 +36,7 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 FRASE DEL DÍA🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -47,32 +47,16 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 CONTACTAME 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="mailto:lyshuan03_nv@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://www.linkedin.com/in/montserrat-natzumi-lyshuan-navarro-velazquez-12a679211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="fujoshi801.chan@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
-------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
