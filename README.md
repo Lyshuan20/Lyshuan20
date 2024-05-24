@@ -50,13 +50,13 @@
 <h2 align="center">🤝 CONTACTAME 🤝 </h2>
 <div align="center">
 <a href="mailto:lyshuan03_nv@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lyshuan03_nv@hotmail.com" style="margin-bottom: 5px;" />
 </a>
   
  <a href="https://www.linkedin.com/in/montserrat-natzumi-lyshuan-navarro-velazquez-12a679211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="fujoshi801.chan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:fujoshi801.chan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=fujoshi801.chan@gmail.com mail style="margin-bottom: 5px;" />
 </a>
