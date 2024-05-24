@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-meow_code.gif?1531849430" width="30"/> Soy Lyshuan! 
+# <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif" width="30"/> Soy Lyshuan! 
 *Artista digital (Desarrollador / Programador)*
 <br /> 
 
