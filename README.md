@@ -1,5 +1,5 @@
 <!--Banner-->
-![Lyshuan Banner](https://github.com/Lyshuan20/Lyshuan20/blob/main/Banner_Lyshuan_Github.png)
+![Lyshuan Banner](https://github.com/Lyshuan20/Lyshuan20/blob/main/Banner_LyshuanNavarro.png)
 
 <!--Imagen -->
 <div>
