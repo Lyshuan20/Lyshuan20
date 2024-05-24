@@ -1,15 +1,15 @@
 <!--Banner-->
 ![Lyshuan Banner](https://github.com/Lyshuan20/Lyshuan20/blob/main/Banner_LyshuanNavarro.png)
 
-<!--Imagen -->
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">
-</div>
-
 <!--Header Name-->
 # <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif" width="30"/> Soy Lyshuan! 
 *Artista digital (Desarrollador / Programador)*
-<br /> 
+<br />
+
+<!--Imagen -->
+<div>
+  <img align="right" width="25%" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">
+</div>
 
 <!--Start Intro-->               
 <p align="left">Soy desarrolladora Full Stack y entusiasta de las aplicaciones moviles con un gran amor por la programación, el diseño y crear experiencias para el usuario. </p>
