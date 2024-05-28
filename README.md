@@ -29,7 +29,7 @@
 <!--Sección de lenguajes y herramientas-->       
 <h2 align="center">LENGUAJES Y HERRAMIENTAS</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,git,vscode,androidstudio,firebase,mysql,flutter&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,cs,js,html,css,cgit,vscode,androidstudio,firebase,mysql,flutter&perline=10"  />
 </p>
 <br />
 
