@@ -12,12 +12,13 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy desarrolladora Full Stack y entusiasta de las aplicaciones moviles con un gran amor por la programación, el diseño y crear experiencias para el usuario. </p>
+<p align="left">Soy desarrolladora Full Stack y entusiasta de las aplicaciones con un gran amor por la programación, el diseño y crear experiencias para el usuario. </p>
 
-- ✨ Busco empleo como desarrolladora móvil.
+- ✨ Busco empleo como desarrolladora.
+- 💻 Desarrollo en sitios web con html, css y js.
 - 🌱 Soy egresada del Centro Universitario de la Costa :).
 - 📱 Desarrollo en móvil con Java y Flutter.
-- 💻 Conocimientos en Firebase y MySQL.
+- 💻 Conocimientos en Firebase, MySQL y PHP.
 - 🌱 Trabajo en proyectos individuales para enriquecer mi conocimiento y experiencia.
 - 🎨 Me encanta el front-end, especialmente UI/UX, la elección de paletas de colores y la creación de diseños, bocetos y esquemas.
 - 💡 Siempre aprendiendo algo nuevo cada día.
@@ -29,7 +30,7 @@
 <!--Sección de lenguajes y herramientas-->       
 <h2 align="center">LENGUAJES Y HERRAMIENTAS</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,cs,js,html,css,flutter,git,github,vscode,androidstudio,firebase,mysql&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,cs,js,html,css,flutter,bootstrap,git,github,vscode,androidstudio,firebase,mysql,php&perline=10"  />
 </p>
 <br />
 
